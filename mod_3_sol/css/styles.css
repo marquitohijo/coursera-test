@@ -18,6 +18,10 @@ h1 {
     
 }
 
+.tall_section {
+    margin-top: 25px;
+}
+
 #link-chicken {
     border: 1px solid rgba(0, 0, 0, 0.5);
     text-align: center;
