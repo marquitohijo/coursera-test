@@ -40,8 +40,8 @@ h1 {
 }
 
 .detailed_paragraph {
-	background:rgba(255, 165, 0, 0.75);
-	border: 2px solid black;
+	background:rgba(255, 165, 0, 0.40);
+	border: 2px solid rgba(0,0,0,0.1);
 	margin-right: 5%;
 	margin-left: 5%;
     padding: 2.5%;
